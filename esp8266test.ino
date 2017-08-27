@@ -27,7 +27,7 @@
 DHT dht(DHTPIN, DHTTYPE);
  
 const char* ssid     = "tomtom2";
-const char* password = "iletunfo78gateau";
+const char* password = "xxxxxxx";
  
 const char* host = "www.elanprod.com";
 const int sleepTimeS = 1200;
